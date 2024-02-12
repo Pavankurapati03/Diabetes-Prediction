@@ -4,7 +4,8 @@ import pickle
 import streamlit as st
 
 
-loadedmodel = pickle.load(open('C:/Users/Pavan/Downloads/Diabetes/trained_model.sav', 'rb'))
+loadedmodel = pickle.load(open(r'C:\Users\Pavan\Downloads\Diabetes\trained_model.sav', 'rb'))
+
 
 # creating a function for Prediction
 
