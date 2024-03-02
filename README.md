@@ -1,3 +1,2 @@
-# Diabetes-Prediction-Website-app.py
+# Diabetes-Prediction
 
-### To develop the web app i used the streamlit
